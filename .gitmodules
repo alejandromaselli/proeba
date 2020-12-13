@@ -1,0 +1,6 @@
+[submodule "afternoon-tundra-06811"]
+	path = afternoon-tundra-06811
+	url = https://git.heroku.com/afternoon-tundra-06811.git
+[submodule "mern-api-version-2"]
+	path = mern-api-version-2
+	url = https://git.heroku.com//mern-api-version-2.git
